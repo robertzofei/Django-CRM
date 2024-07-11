@@ -1,0 +1,8 @@
+
+we need to connect django to mysql
+
+superuser:
+username: admin
+passwd: mynameisjeff
+
+commands to setup git:
